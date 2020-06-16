@@ -1,0 +1,19 @@
+# user setting
+{
+    "expand_tabs_on_save": true,
+    "font_size": 11,
+    "ignored_packages":
+    [
+    ],
+    "tab_size": 4,
+    "theme": "Adaptive.sublime-theme",
+    "translate_tabs_to_spaces": true
+}
+
+
+#key Bindings
+[
+    { "keys": ["ctrl+k"], "command": "next_view" },
+    { "keys": ["ctrl+j"], "command": "prev_view" },
+    { "keys": ["ctrl+b"], "command": "toggle_side_bar" }
+]
