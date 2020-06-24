@@ -9,6 +9,7 @@ set tabstop=4
 
 " 统一缩进为4
 set softtabstop=4
+
 " 用空格表示缩进
 set expandtab
 
