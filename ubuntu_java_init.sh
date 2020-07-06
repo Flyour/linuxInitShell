@@ -18,3 +18,9 @@ echo "#java path" >> /etc/profile
 echo "export JAVA_HOME=/opt/java/jdk1.8.0_251" >> /etc/profile
 echo "export PATH=/opt/java/jdk1.8.0_251/bin:${PATH}" >> /etc/profile
 
+
+sudo ln -s /opt/java/jdk1.8.0_251/bin/jar /bin/jar
+sudo ln -s /opt/java/jdk1.8.0_251/bin/java /bin/java
+sudo ln -s /opt/java/jdk1.8.0_251/bin/javac /bin/javac
+sudo ln -s /opt/java/jdk1.8.0_251/bin/javah /bin/javah
+sudo ln -s /opt/java/jdk1.8.0_251/bin/javadoc /bin/javadoc
