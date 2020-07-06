@@ -24,3 +24,4 @@ sudo ln -s /opt/java/jdk1.8.0_251/bin/java /bin/java
 sudo ln -s /opt/java/jdk1.8.0_251/bin/javac /bin/javac
 sudo ln -s /opt/java/jdk1.8.0_251/bin/javah /bin/javah
 sudo ln -s /opt/java/jdk1.8.0_251/bin/javadoc /bin/javadoc
+sudo ln -s /opt/java/jdk1.8.0_251/bin/keytool  /bin/keytool
